@@ -7,7 +7,7 @@ Este projeto é uma calculadora simples desenvolvida com **React** e estilizada 
 - **Soma (+)**: Permite adicionar dois números.
 - **Subtração (-)**: Permite subtrair um número de outro.
 - **Multiplicação (×)**: Permite multiplicar dois números.
-- **Divisão (÷)**: Permite dividir um número por outro.
+- **Divisão (/)**: Permite dividir um número por outro.
 - **Limpar (C)**: Reseta os valores para zero.
 
 ## Tecnologias Utilizadas
@@ -28,12 +28,20 @@ git clone https://github.com/seu-usuario/calculadora-react.git
 
 ## Instalar dependencias
 cd Calculadora
+```bash 
 npm install
 # ou
 yarn install
 
+```
+
+
 ## Desenvolvimento
+```bash
 npm start
 # ou
 yarn start
+
+```
+
 
