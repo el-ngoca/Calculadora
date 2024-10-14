@@ -27,8 +27,9 @@ git clone https://github.com/seu-usuario/calculadora-react.git
 ```
 
 ## Instalar dependencias
-cd Calculadora
+
 ```bash 
+cd Calculadora
 npm install
 # ou
 yarn install
